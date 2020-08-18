@@ -1,0 +1,79 @@
+#bar{
+	background-image: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 590px;
+    background-position: center bottom;
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+    flex-direction: row;
+    margin-top: 30px;
+
+}
+
+.gradlink{
+	color: white;
+    height: 20px;
+    width: 100px;
+    margin-right: -5px;
+    margin-top: 70px;
+    padding: 6px 10px 5px 10px;
+    background-color: rgb(43, 42, 42);
+    border: 1px solid rgb(153, 152, 152);
+    border-radius: 5px;
+    font-size: 13px;
+    text-align: center;
+    font-family: sans-serif;
+    background-image: linear-gradient(to top, rgb(153, 152, 152) 0%, #4b4949 51%, rgb(167, 164, 164) 100%);
+}
+
+ .gradlink a{
+	color: white;
+	
+}
+.gradlink input{
+	box-sizing: border-box;
+	width: 113px;   
+ 
+}
+
+ul li{
+ 	list-style:none ;
+ 	display:inline-flex;
+
+ 	
+ }
+ .ipforward{
+ 	width: 100%;
+ 	display: inline-flex;
+ }
+
+ .apple-iphone{
+ 	margin-top: 130px;
+ 	font-family: sans-serif, 'Open Sans';
+ 	font-size: 34px;
+ 	color: white;
+ }
+ a{
+ 	text-decoration: none;
+    color: rgb(0, 136, 204);
+ }
+ li{
+ 	display: list-item;
+ }
+
+ .sitemap ul li {
+ 	 border-right: 1px solid black;
+ 	color: rgb(0, 136, 204); 
+
+ }
+ footer{
+ 	display: inline-flex;
+ 	margin-left: 120px;
+    font-size: 13px;
+ }
+ .privacy{
+ 	 margin-left: 120px;
+         font-size: 13px;
+ }
